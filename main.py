@@ -14,6 +14,6 @@ def cube_volume():
 
 def cube_surface_area():
     i=float(raw_input("Enter side length "))
-    return 6*s*s
+    return 6*i*i
 
 
